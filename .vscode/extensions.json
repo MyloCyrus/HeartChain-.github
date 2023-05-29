@@ -1,6 +1,6 @@
 {
     "recommendations": [
-        "binarybytes.snippets",
-        "xabikos.JavaScriptSnippets"
+        "tabnine.tabnine-vscode",
+        "RTG.py-snippets"
     ]
 }
